@@ -1,0 +1,107 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+html{
+    background-color:white;
+    
+    color: white;
+}
+li{
+    color: blue;
+}
+body{
+    height: 2500px;
+    width: 1000px;
+    background-color: black;
+    margin: 10px auto;
+    font-family:Arial, Helvetica, sans-serif;
+}
+#comment{
+    color: crimson;
+    padding-left: 50px;
+    padding-top: 30px;
+    font-size: 25px;
+    padding: 50px;
+    line-height: 40px;  
+    font-family: 'Times New Roman', Times, serif; 
+}
+#title{
+    color: yellow;
+}
+#example{
+    line-height: 30px;
+    padding-left: 60px;
+    padding-top: 20px;
+    font-size: 20px;
+    color: green;
+    padding-bottom: 25px;
+
+}
+#m2{
+    line-height: 30px;
+    padding-left: 60px;
+    padding-top: 20px;
+    font-size: 20px;
+    color: green;
+    padding-bottom: 25px;
+
+}
+#s1{
+    color: white;
+}
+#s2{
+    color: white;
+}
+#l1{
+    color:/ rgb(105, 105, 232);
+    line-height: 40px;
+    font-size: 20px;
+    padding-left: 50px;
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
+h3{
+    font-size: 30px;
+    color: aqua;
+}
+#p1{
+    font-size: 25px;
+    color: blueviolet;
+}
+#m1{
+    font-size: 25px;
+    color: blueviolet;
+}
+#m3{
+    font-size: 25px;
+    color: blueviolet;
+}
+#p3{
+    font-size: 25px;
+    color: blueviolet;
+}
+#p4{
+    padding-top: 30px;
+    padding-left: 60px;
+    line-height: 20px;
+    color: green;
+}
+#m4{
+    padding-top: 30px;
+    padding-left: 60px;
+    line-height: 20px;
+    color: green;
+}
+#p2{
+    line-height: 30px;
+    padding-top: 30px;
+    font-size: 20px;
+}
+#m5{
+    line-height: 30px;
+    padding-top: 30px;
+    font-size: 20px;
+}

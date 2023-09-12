@@ -1,0 +1,70 @@
+*{
+    margin:0px;
+    padding: 0px;
+    
+}
+html{
+
+    background-color:white;
+}
+body{
+    height:3010px;
+    width:1100px;
+    margin: 10 auto;
+    background-color: black;
+    color: white;
+}
+#title{
+    font-size: 50px;
+    color: crimson;
+}
+#image{
+    height:500;
+    width: 700px;
+}
+#types{
+    padding: 20px;
+    line-height: 40px;
+    font-size: 30px;
+    color: rgb(244, 108, 171);
+}
+#basic{
+    padding-left: 60px;
+    line-height: 20px;
+    font-size: 25px;
+}
+#example{
+    color: cornflowerblue;
+    font-size: 30px;
+    padding: 20px;
+}
+#one{
+    padding: 20px;
+    line-height: 40px;
+    font-size: 30px;
+    color: rgb(137, 137, 223);
+}
+#two{
+    padding: 20px;
+    line-height: 40px;
+    font-size: 30px;
+    color: rgb(209, 121, 210);
+}
+#int{
+    padding-left: 30px;
+    line-height: 40px;
+    color: rgb(244, 108, 149);
+    font-size: 25px;
+}
+#float{
+    padding-left: 30px;
+    line-height: 40px;
+    color: rgb(203, 58, 195);
+    font-size: 25px;
+}
+#complex{
+    padding-left: 30px;
+    line-height: 40px;
+    color: rgb(36, 205, 211);
+    font-size: 25px;
+}

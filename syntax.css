@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+html{
+    background-color:white;
+
+}
+body{
+    height: 1000px;
+    width: 1000px;
+    background-color: black;
+    margin: 10px auto;
+}
+#title{
+    color: yellow;
+}
+#content{
+    font-size: 25px;
+    align: center;
+    line-height: 50px;
+    padding: 20px;
+    background-color: black;
+    color:rgb(219, 37, 37);
+}
+#example{
+    font-size: 25px;
+    color:green;
+}

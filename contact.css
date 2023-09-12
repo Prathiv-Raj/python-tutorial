@@ -1,0 +1,21 @@
+*{
+    background-color:#c7b696;
+}
+h3{
+    background-color: rgb(235, 208, 139);
+    padding: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(189, 1, 1);
+}
+p{
+    color: blue;
+    padding-left: 300px;
+    padding-top: 100px;
+    font-size: 35px;
+}
+center{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: blueviolet;
+    padding: 30px;
+}
+ 

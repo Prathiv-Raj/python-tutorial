@@ -1,0 +1,26 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+html{
+    background: rgb(215, 181, 181);
+}
+h1{
+    background-color: rgb(234, 158, 158);
+    padding: 10px;
+    color: rgb(245, 106, 6);
+    font-family:Algerian;
+}
+h3{
+    padding: 15px;
+    padding-left: 30px;
+    background-color: rgb(130, 224, 220);
+    color:rgb(223, 9, 9);
+    font-family:'Times New Roman', Times, serif;
+
+}
+#botm{
+    padding-top: 80px;
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+}
